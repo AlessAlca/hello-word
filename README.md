@@ -1,2 +1,2 @@
 # hello-word
-I'm re freshing my knowledge with Github 
+Now I'm learning how to use Github, this is a very important tool for web developers and everyone who works in this industry.
